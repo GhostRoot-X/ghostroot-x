@@ -9,7 +9,7 @@ just some reverse-enginerd by default. trace the rest through my commit history.
 
 _****_
 
-if not on here, you might find me on the [YouTube](https://www.youtube.com/),  check me out @ [dougsecops.com](https://dougsecops.com) or shoot me a DM on [Twitter(𝕏)](https://x.com/) anytime...
+if not on here, you might find me on the [YouTube](https://www.youtube.com/), or shoot me a DM on [Twitter(𝕏)](https://x.com/) anytime...
 
 ## // reach more links
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/)
