@@ -1,6 +1,6 @@
 ![Profile Views]()
 
-> ![GIF](https://media.giphy.com/media/r5e5Wv61DyeURRIyAR/giphy.gif)
+> ![GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjdtdTJ0N3ZwcXk0dm1kdHprbHdrazF6ank1MnJyd3Y2MDl3NGtqYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xLaKQP4835SIoOcA01/giphy.gif)
 
 > {cyberwar10ck}{red path}Day:{building} Night:{h#%k!ng}
 
